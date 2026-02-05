@@ -1,0 +1,88 @@
+{
+  "topics": [
+    {
+      "id": 2,
+      "name": "M2 Innovatsiya turlari va ularni boshqarish. Innovatsiya va ulaming turlari. Korxonalarda innovatsiyalardan foydalanish. Innovatsiyalami jalb qilishga ta’sir etuvchi omillar.",
+      "capacity": 1
+    },
+    {
+      "id": 3,
+      "name": "M3 Innovatsiyalar va strategik rejalashtirish. Innovatsiyalaming strategik ahamiyati. Korxona faoliyatini rejalashtirishda innovatsiyalaming o‘mi. Innovatsiyalami rivojlantirishga ta’sir etuvchi omillar.",
+      "capacity": 1
+    },
+    {
+      "id": 4,
+      "name": "M4 Loyihalarning marketing tahlili. Marketing. Marketing taxlil. Loyihalaming marketing tahlili Loyihalarga talab va taklif. Korxonalar faoliyatida loyihalaming o‘mi.",
+      "capacity": 1
+    },
+    {
+      "id": 5,
+      "name": "M1 Innovatsiya va loyihalarni boshqarish. Innovatsiyalar. Innovatsiyaning turlari. Innovatsiyalaming iqtisodiyot uchun ahamiyati. Innovatsiyalaming loyihalardagi o‘rni. Innovatsiya va loyihalarni boshqarish bilan bog‘liq iqtisodiy konsepsiyalar.",
+      "capacity": 1
+    },
+    {
+      "id": 6,
+      "name": "M5 Loyihalarning turlari va ularning mohiyati, Fundamental va amaliy loyihalar. Loyiha. Loyiha turlari. Loyihalarning zarurligi va axamiyati. Korxona va tashkilotlar tomonidan e’lon qilinadigan loyihalar. Fundamental loyihalar. Fundamental loyihalarga tegishli xujjatlar. Xujjatlami rasmiylashtirish amaliyoti. Loyihani shakllantirishda qo‘yiladigan talablar. Amaliy loyihalar. Amaliy loyihalarga tegishli xujjatlar. Xujjatlami rasmiylashtirish amaliyoti. Loyihani shakllantirishda qo‘yiladigan talablar.",
+      "capacity": 1
+    },
+    {
+      "id": 7,
+      "name": "M6 Innovatsion va STARTAP loyihalar. Innovatsion loyihalar innovatsion loyihalarga tegishli xujjatlar. Xujjatlami rasmiylashtirish amaliyoti. Loyihani shakllantirishda qo‘yiladigan talablar STARTAP loyihalarga tegishli xujjatlar. Xujjatlami rasmiylashtirish amaliyoti. Loyihani shakllantirishda qo‘yiladigan talablar.",
+      "capacity": 1
+    },
+    {
+      "id": 8,
+      "name": "M7 Xorijiy, xalqaro, hamkorlikdagi loyihalar va innovatsiyalarga ta’siri. Xorijiy loyihalar va ulaming milliy iqtisodiyotga ta’siri. Xalqaro loyihalar, xalqaro loyihalarga tegishli hujjatlami rasmiylashtirish rasmiylashtirish jarayonlari.",
+      "capacity": 1
+    },
+    {
+      "id": 9,
+      "name": "M8 Loyihalarning shakllanish bosqichlari. Loyiha mavzularini shakllantirish. Ishchi guruxni tashkil qilish. Loyiha raxbarini belgilash va unga qo‘yiladigan talablar. Jamoani shakllantirish. Kerakli hujjatlami tayyorlash. Mavzuning shakllantirishdagi talablar va uning dolzarbligini aniqlash.",
+      "capacity": 1
+    },
+    {
+      "id": 10,
+      "name": "M9 Loyihalarga innovatsion yondoshuv va uning natijalari taxlili. Loyihalaming turlarini aniqlash. Loyiha turlariga qo‘yiladigan alohida talablar. Loyihalarga innovatsiyalami jalb etish jarayonlari.",
+      "capacity": 1
+    },
+    {
+      "id": 11,
+      "name": "M10 Loyiha hujjatlarini tayyorlash bosqichlari va ularni takomillashtirish. Loyiha xujjatlarini shakllantirish. Moliyaviy jixatlar, loyihaning qiymatini belgilash. Talab etilgan “shakriami to‘ldirish amaliyoti. Loyiha muddatlari.",
+      "capacity": 1
+    },
+    {
+      "id": 12,
+      "name": "M11 Loyihalarni oxirgi shakllangan varianti va uni texnik-iqtisodiy hamda moliyaviy jihatdan monitoring qilish. Loyihalaming oxirgi shakli. Loyihalami saytlarga elektron joylashtirish. Texnik vazifalaming belgilanishi. Kalendar rejalar.",
+      "capacity": 1
+    },
+    {
+      "id": 13,
+      "name": "M12 LoyihaIarning tashkiliy tuzilmasi va uni moliyalashtirish. Loyihalaming tashkiliy tuzilmasini belgilash va vazifalami aniqlash. Loyihalaming samaradorligini taxlil qilish. Loyiha ishtirokchilariga maosh belgilash tartibi.",
+      "capacity": 1
+    },
+    {
+      "id": 14,
+      "name": "M13 Investitsiyalarni jalb qilish va unining samardorligi. Investitsiyalar. Loyihalaming investitsion jozibadorligi. Loyihalarga investitsiyalarning jalb etilishi. Samarali va samarasiz investitsiyalar.",
+      "capacity": 1
+    },
+    {
+      "id": 15,
+      "name": "M14 Loyihalarda risk xavfini aniqlash va boshqarish. Risk va unga ta’sir etuvchi omillar. Loyihalarda risk xavfming Innovatsilarni joriy qilish va investitsiyalashda risk xavfmi aniqlash. Daromadlaming o‘zgarish shkalasi va investitsiyalashda risk xavfi darajasi.",
+      "capacity": 1
+    },
+    {
+      "id": 16,
+      "name": "M15 Loyihalarni yakuniy bosqichga tayyorlash. Loyihalaming tugatilish jarayonlari. Xisobotlar. Yakunlanmagan loyihalar. Loyiha muddatlariga ta’sir etuvchi omillar. Tijoratlashtirish. Innovatsiyalami tijoratlashtirish. Loyiha natijalarini tijoratlashtirish.",
+      "capacity": 1
+    },
+    {
+      "id": 17,
+      "name": "M16. Loyihalarni baholash, audit va post-loyiha tahlili. Loyihalarni baholash mezonlari. Texnik va moliyaviy audit. Loyihaning rejalashtirilgan va erishilgan natijalarini tahlil qilish. Post-loyiha tahlili va olingan tajribalarni keyingi loyihalarda qo‘llash.",
+      "capacity": 1
+    }
+  ],
+  "user_selections": {
+    "438593648": [],
+    "5646705349": []
+  }
+}
